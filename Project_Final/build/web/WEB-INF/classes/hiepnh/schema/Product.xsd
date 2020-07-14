@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<xsd:schema version="1.0"
+            targetNamespace="http://xml.netbeans.org/schema/product"
+            xmlns="http://xml.netbeans.org/schema/product"
+            xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+            elementFormDefault="qualified">
+    <xsd:complexType name="ProductDetails">
+        <xsd:sequence>
+            <xsd:element name="Id" type="xsd:int" />
+            <xsd:element name="name" type="xsd:string" />
+            <xsd:element name="image" type="xsd:string" />
+            <xsd:element name="linkDetails" type="xsd:string" />
+            <xsd:element name="price" type="xsd:float" />
+            <xsd:element name="category" type="xsd:string" />            
+            <xsd:element name="minArea" type="xsd:float" />            
+            <xsd:element name="maxArea" type="xsd:float" />             
+            <xsd:element name="powerConsumption" type="xsd:string" />
+            <xsd:element name="inverter" type="xsd:string" />
+            <xsd:element name="type" type="xsd:string" />
+        </xsd:sequence>
+    </xsd:complexType>
+    <xsd:element name="ListProducts">
+        <xsd:complexType>
+            <xsd:sequence>
+                <xsd:element name="ProductDetails" type="ProductDetails" maxOccurs="unbounded"/>
+            </xsd:sequence>
+        </xsd:complexType>
+    </xsd:element>
+ </xsd:schema>

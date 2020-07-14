@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>src/java/hiepnh/utils/XMLUtils.java</url>
+            <bookmark id="1">
+                <name/>
+                <line>504</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/F:/cn8/XML/Project_Final/src/java/hiepnh/craw/crawlDMGR.java</file>
+            <file>file:/F:/cn8/XML/Project_Final/src/java/hiepnh/controller/SearchController.java</file>
+            <file>file:/F:/cn8/XML/Project_Final/src/java/hiepnh/craw/main.java</file>
+            <file>file:/F:/cn8/XML/Project_Final/src/java/hiepnh/dao/productDAO.java</file>
+            <file>file:/F:/cn8/XML/Project_Final/web/user.jsp</file>
+            <file>file:/F:/cn8/XML/Project_Final/web/advice.jsp</file>
+            <file>file:/F:/cn8/XML/Project_Final/src/java/hiepnh/utils/XMLUtils.java</file>
+            <file>file:/F:/cn8/XML/Project_Final/src/java/hiepnh/craw/crawl.java</file>
+            <file>file:/F:/cn8/XML/Project_Final/src/java/hiepnh/dto/ProductDTO.java</file>
+        </group>
+    </open-files>
+</project-private>
